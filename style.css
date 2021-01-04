@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: yellowgreen;
+}
+div{
+    margin-top: 15px;
+}
+.display-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+  margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
